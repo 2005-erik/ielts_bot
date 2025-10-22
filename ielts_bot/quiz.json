@@ -1,0 +1,613 @@
+[
+    {
+        "level": "A1",
+        "question": "What is the capital of Kazakhstan?",
+        "options": ["Astana", "Almaty", "Shymkent", "Aktau"],
+        "answer": "Astana"
+    },
+    {
+        "level": "A1",
+        "question": "How do you say 'рахмет' in English?",
+        "options": ["Goodbye", "Please", "Thank you", "Hello"],
+        "answer": "Thank you"
+    },
+    {
+        "level": "A1",
+        "question": "Choose the correct sentence:",
+        "options": ["She am student", "She is a student", "She are student", "She be student"],
+        "answer": "She is a student"
+    },
+    {
+        "level": "A1",
+        "question": "What color is the sky?",
+        "options": ["Blue", "Green", "Black", "Red"],
+        "answer": "Blue"
+    },
+    {
+        "level": "A1",
+        "question": "Which word means 'кітап'?",
+        "options": ["Book", "Table", "Chair", "Pen"],
+        "answer": "Book"
+    },
+    {
+        "level": "A1",
+        "question": "Select the correct word: 'I ___ from Kazakhstan.'",
+        "options": ["am", "is", "are", "be"],
+        "answer": "am"
+    },
+    {
+        "level": "A1",
+        "question": "What is the opposite of 'hot'?",
+        "options": ["Cold", "Warm", "Dry", "Wet"],
+        "answer": "Cold"
+    },
+    {
+        "level": "A1",
+        "question": "Which one is a fruit?",
+        "options": ["Apple", "Car", "Table", "Book"],
+        "answer": "Apple"
+    },
+    {
+        "level": "A1",
+        "question": "How do you say 'сәлем' in English?",
+        "options": ["Hello", "Bye", "Yes", "No"],
+        "answer": "Hello"
+    },
+    {
+        "level": "A1",
+        "question": "Choose the correct plural form of 'child'.",
+        "options": ["Childs", "Children", "Childes", "Childer"],
+        "answer": "Children"
+    },
+    {
+        "level": "A1",
+        "question": "What number is between 5 and 7?",
+        "options": ["6", "8", "9", "4"],
+        "answer": "6"
+    },
+    {
+        "level": "A1",
+        "question": "Where do students study?",
+        "options": ["At school", "At hospital", "At cinema", "At bank"],
+        "answer": "At school"
+    },
+    {
+        "level": "A1",
+        "question": "Which animal says 'meow'?",
+        "options": ["Dog", "Cat", "Cow", "Horse"],
+        "answer": "Cat"
+    },
+    {
+        "level": "A1",
+        "question": "How many days are there in a week?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "7"
+    },
+    {
+        "level": "A1",
+        "question": "What is 'күн' in English?",
+        "options": ["Sun", "Moon", "Star", "Sky"],
+        "answer": "Sun"
+    },
+    {
+        "level": "A1",
+        "question": "Which sentence is correct?",
+        "options": ["He like apples", "He likes apples", "He liking apples", "He is like apples"],
+        "answer": "He likes apples"
+    },
+    {
+        "level": "A1",
+        "question": "What is 'қала' in English?",
+        "options": ["City", "Village", "River", "Lake"],
+        "answer": "City"
+    },
+    {
+        "level": "A1",
+        "question": "Which one is a drink?",
+        "options": ["Water", "Car", "Pen", "Book"],
+        "answer": "Water"
+    },
+    {
+        "level": "A1",
+        "question": "How do you say 'иә' in English?",
+        "options": ["Yes", "No", "Maybe", "Please"],
+        "answer": "Yes"
+    },
+    {
+        "level": "A1",
+        "question": "Which one is not a color?",
+        "options": ["Yellow", "Fish", "Red", "Blue"],
+        "answer": "Fish"
+    },
+    {
+        "level": "A2",
+        "question": "What do people usually eat for breakfast?",
+        "options": ["Soup", "Cereal", "Pizza", "Steak"],
+        "answer": "Cereal"
+    },
+    {
+        "level": "A2",
+        "question": "Choose the correct sentence:",
+        "options": ["She can to swim", "She can swim", "She cans swim", "She can swims"],
+        "answer": "She can swim"
+    },
+    {
+        "level": "A2",
+        "question": "What is 'дүкен' in English?",
+        "options": ["Shop", "Park", "School", "Hospital"],
+        "answer": "Shop"
+    },
+    {
+        "level": "A2",
+        "question": "Which sentence is in the past tense?",
+        "options": ["He plays football", "He is playing football", "He played football", "He will play football"],
+        "answer": "He played football"
+    },
+    {
+        "level": "A2",
+        "question": "Where can you see animals?",
+        "options": ["Zoo", "Library", "Airport", "Bank"],
+        "answer": "Zoo"
+    },
+    {
+        "level": "A2",
+        "question": "What is 'жолдас' in English?",
+        "options": ["Friend", "Teacher", "Family", "Driver"],
+        "answer": "Friend"
+    },
+    {
+        "level": "A2",
+        "question": "Which word means 'ас үй'?",
+        "options": ["Kitchen", "Bedroom", "Bathroom", "Living room"],
+        "answer": "Kitchen"
+    },
+    {
+        "level": "A2",
+        "question": "What is the opposite of 'easy'?",
+        "options": ["Hard", "Soft", "Slow", "Fast"],
+        "answer": "Hard"
+    },
+    {
+        "level": "A2",
+        "question": "What do you wear on your feet?",
+        "options": ["Shoes", "Hat", "Shirt", "Scarf"],
+        "answer": "Shoes"
+    },
+    {
+        "level": "A2",
+        "question": "What is 'қар' in English?",
+        "options": ["Snow", "Rain", "Wind", "Fog"],
+        "answer": "Snow"
+    },
+    {
+        "level": "A2",
+        "question": "Which sentence is correct?",
+        "options": ["They doesn’t like tea", "They don’t like tea", "They not like tea", "They didn’t likes tea"],
+        "answer": "They don’t like tea"
+    },
+    {
+        "level": "A2",
+        "question": "Where do you keep money?",
+        "options": ["Wallet", "Plate", "Shelf", "Box"],
+        "answer": "Wallet"
+    },
+    {
+        "level": "A2",
+        "question": "What is 'дәрігер' in English?",
+        "options": ["Doctor", "Nurse", "Patient", "Teacher"],
+        "answer": "Doctor"
+    },
+    {
+        "level": "A2",
+        "question": "Which one is a country?",
+        "options": ["Kazakhstan", "Astana", "Alatau", "Eurasia"],
+        "answer": "Kazakhstan"
+    },
+    {
+        "level": "A2",
+        "question": "What is 'бақыт' in English?",
+        "options": ["Happiness", "Sadness", "Anger", "Love"],
+        "answer": "Happiness"
+    },
+    {
+        "level": "A2",
+        "question": "What is 'тамақ' in English?",
+        "options": ["Food", "Drink", "Clothes", "Music"],
+        "answer": "Food"
+    },
+    {
+        "level": "A2",
+        "question": "Which sentence is correct?",
+        "options": ["I am interesting in books", "I am interested in books", "I interest in books", "I interested books"],
+        "answer": "I am interested in books"
+    },
+    {
+        "level": "A2",
+        "question": "Which word means 'университет'?",
+        "options": ["University", "Office", "Market", "Station"],
+        "answer": "University"
+    },
+    {
+        "level": "A2",
+        "question": "What is 'үй жануары' in English?",
+        "options": ["Pet", "Wild animal", "Bird", "Fish"],
+        "answer": "Pet"
+    },
+    {
+        "level": "A2",
+        "question": "What is 'дос' in English?",
+        "options": ["Friend", "Enemy", "Teacher", "Student"],
+        "answer": "Friend"
+    },
+    {
+        "level": "B1",
+        "question": "Which Kazakh dish is made from horse meat?",
+        "options": ["Beshbarmak", "Lagman", "Plov", "Manty"],
+        "answer": "Beshbarmak"
+    },
+    {
+        "level": "B1",
+        "question": "What is the main language spoken in Kazakhstan?",
+        "options": ["Kazakh", "Russian", "English", "Uzbek"],
+        "answer": "Kazakh"
+    },
+    {
+        "level": "B1",
+        "question": "Choose the correct sentence:",
+        "options": ["I have visited Almaty last year", "I visited Almaty last year", "I was visit Almaty last year", "I visiting Almaty last year"],
+        "answer": "I visited Almaty last year"
+    },
+    {
+        "level": "B1",
+        "question": "What is 'табиғат' in English?",
+        "options": ["Nature", "People", "Weather", "Mountain"],
+        "answer": "Nature"
+    },
+    {
+        "level": "B1",
+        "question": "Which city is known as the cultural capital of Kazakhstan?",
+        "options": ["Almaty", "Astana", "Shymkent", "Karaganda"],
+        "answer": "Almaty"
+    },
+    {
+        "level": "B1",
+        "question": "Which sentence uses the future perfect tense?",
+        "options": ["I will have finished my work by 6 PM", "I will finish my work", "I have finished my work", "I am finishing my work"],
+        "answer": "I will have finished my work by 6 PM"
+    },
+    {
+        "level": "B1",
+        "question": "What does 'hospitality' mean?",
+        "options": ["Kindness to guests", "Building houses", "Helping animals", "Working at night"],
+        "answer": "Kindness to guests"
+    },
+    {
+        "level": "B1",
+        "question": "Which Kazakh holiday celebrates the new year in spring?",
+        "options": ["Nauryz", "Independence Day", "Victory Day", "Constitution Day"],
+        "answer": "Nauryz"
+    },
+    {
+        "level": "B1",
+        "question": "Choose the correct passive form: 'They built a new bridge last year.'",
+        "options": ["A new bridge was built last year", "A new bridge is built last year", "A new bridge will be built", "A new bridge built last year"],
+        "answer": "A new bridge was built last year"
+    },
+    {
+        "level": "B1",
+        "question": "What is 'қонақжайлық' in English?",
+        "options": ["Hospitality", "Celebration", "Generosity", "Respect"],
+        "answer": "Hospitality"
+    },
+    {
+        "level": "B1",
+        "question": "Which one is a traditional Kazakh instrument?",
+        "options": ["Dombra", "Guitar", "Violin", "Flute"],
+        "answer": "Dombra"
+    },
+    {
+        "level": "B1",
+        "question": "Which of these means 'to make something better'?",
+        "options": ["Improve", "Destroy", "Forget", "Move"],
+        "answer": "Improve"
+    },
+    {
+        "level": "B1",
+        "question": "What is 'жұмыс' in English?",
+        "options": ["Work", "Play", "Rest", "Sleep"],
+        "answer": "Work"
+    },
+    {
+        "level": "B1",
+        "question": "Which word means 'әлем'?",
+        "options": ["World", "Man", "Earth", "Sky"],
+        "answer": "World"
+    },
+    {
+        "level": "B1",
+        "question": "Choose the correct comparative form:",
+        "options": ["More good", "Better", "Gooder", "Best"],
+        "answer": "Better"
+    },
+    {
+        "level": "B1",
+        "question": "Which sentence expresses a wish?",
+        "options": ["I wish I could travel to London", "I travel to London", "I will travel to London", "I am traveling to London"],
+        "answer": "I wish I could travel to London"
+    },
+    {
+        "level": "B1",
+        "question": "What is 'таулар' in English?",
+        "options": ["Mountains", "Deserts", "Forests", "Rivers"],
+        "answer": "Mountains"
+    },
+    {
+        "level": "B1",
+        "question": "Which one is not a type of weather?",
+        "options": ["Rainy", "Sunny", "Snowy", "Hungry"],
+        "answer": "Hungry"
+    },
+    {
+        "level": "B1",
+        "question": "Which sentence shows obligation?",
+        "options": ["You must wear a uniform", "You can wear a uniform", "You may wear a uniform", "You like to wear a uniform"],
+        "answer": "You must wear a uniform"
+    },
+    {
+        "level": "B1",
+        "question": "Which one is a form of renewable energy?",
+        "options": ["Solar power", "Coal", "Oil", "Gas"],
+        "answer": "Solar power"
+    },
+    {
+        "level": "B2",
+        "question": "Which word means 'the process of becoming better at something'?",
+        "options": ["Development", "Movement", "Entertainment", "Achievement"],
+        "answer": "Development"
+    },
+    {
+        "level": "B2",
+        "question": "What is the synonym of 'important'?",
+        "options": ["Significant", "Small", "Usual", "Minor"],
+        "answer": "Significant"
+    },
+    {
+        "level": "B2",
+        "question": "Which sentence uses the third conditional?",
+        "options": ["If I had studied, I would have passed", "If I study, I will pass", "If I studied, I would pass", "If I study, I pass"],
+        "answer": "If I had studied, I would have passed"
+    },
+    {
+        "level": "B2",
+        "question": "What is 'экономика' in English?",
+        "options": ["Economy", "Ecology", "Environment", "Education"],
+        "answer": "Economy"
+    },
+    {
+        "level": "B2",
+        "question": "Which of these is a cause of global warming?",
+        "options": ["Greenhouse gases", "Clean energy", "Recycling", "Planting trees"],
+        "answer": "Greenhouse gases"
+    },
+    {
+        "level": "B2",
+        "question": "What is 'жауапкершілік' in English?",
+        "options": ["Responsibility", "Confidence", "Creativity", "Discipline"],
+        "answer": "Responsibility"
+    },
+    {
+        "level": "B2",
+        "question": "Choose the correct form: 'He suggested ___ to the museum.'",
+        "options": ["going", "to go", "go", "gone"],
+        "answer": "going"
+    },
+    {
+        "level": "B2",
+        "question": "Which one means 'қоршаған орта'?",
+        "options": ["Environment", "Government", "Society", "Economy"],
+        "answer": "Environment"
+    },
+    {
+        "level": "B2",
+        "question": "What is 'білім' in English?",
+        "options": ["Knowledge", "Power", "Success", "Wisdom"],
+        "answer": "Knowledge"
+    },
+    {
+        "level": "B2",
+        "question": "Which sentence expresses preference?",
+        "options": ["I would rather stay at home", "I must stay at home", "I stayed at home", "I had to stay at home"],
+        "answer": "I would rather stay at home"
+    },
+    {
+        "level": "B2",
+        "question": "What is 'мәдениет' in English?",
+        "options": ["Culture", "Tradition", "Religion", "History"],
+        "answer": "Culture"
+    },
+    {
+        "level": "B2",
+        "question": "Which one is a correct reported speech?",
+        "options": ["He said he was tired", "He said he is tired", "He said he tired", "He say he was tired"],
+        "answer": "He said he was tired"
+    },
+    {
+        "level": "B2",
+        "question": "Which one is an example of pollution?",
+        "options": ["Dirty rivers", "Clean air", "Green parks", "Solar panels"],
+        "answer": "Dirty rivers"
+    },
+    {
+        "level": "B2",
+        "question": "Which phrase means 'to start a business'?",
+        "options": ["Set up", "Set down", "Set off", "Set away"],
+        "answer": "Set up"
+    },
+    {
+        "level": "B2",
+        "question": "What is 'жарыс' in English?",
+        "options": ["Competition", "Celebration", "Decision", "Collection"],
+        "answer": "Competition"
+    },
+    {
+        "level": "B2",
+        "question": "Which word means 'қоғам'?",
+        "options": ["Society", "Union", "Team", "Group"],
+        "answer": "Society"
+    },
+    {
+        "level": "B2",
+        "question": "Choose the correct idiom: 'Better late than ___.'",
+        "options": ["never", "always", "early", "soon"],
+        "answer": "never"
+    },
+    {
+        "level": "B2",
+        "question": "Which one is not a means of transport?",
+        "options": ["Airplane", "Train", "Mountain", "Bus"],
+        "answer": "Mountain"
+    },
+    {
+        "level": "B2",
+        "question": "What is 'экология' in English?",
+        "options": ["Ecology", "Economy", "Equality", "Energy"],
+        "answer": "Ecology"
+    },
+    {
+        "level": "B2",
+        "question": "Which word is similar in meaning to 'challenge'?",
+        "options": ["Difficulty", "Comfort", "Agreement", "Success"],
+        "answer": "Difficulty"
+    },
+    {
+        "level": "C1",
+        "question": "What does the term 'sustainable development' mean?",
+        "options": [
+            "Development that meets current needs without harming future generations",
+            "Fast economic growth regardless of environment",
+            "Building more cities",
+            "Using all natural resources quickly"
+        ],
+        "answer": "Development that meets current needs without harming future generations"
+    },
+    {
+        "level": "C1",
+        "question": "Which word best describes someone who can adapt to any situation?",
+        "options": ["Flexible", "Rigid", "Lazy", "Dependent"],
+        "answer": "Flexible"
+    },
+    {
+        "level": "C1",
+        "question": "What is 'жасанды интеллект' in English?",
+        "options": ["Artificial Intelligence", "Virtual Machine", "Computer Network", "Deep Learning"],
+        "answer": "Artificial Intelligence"
+    },
+    {
+        "level": "C1",
+        "question": "Which phrase means 'to deal with a problem effectively'?",
+        "options": ["Tackle a problem", "Avoid a problem", "Create a problem", "Ignore a problem"],
+        "answer": "Tackle a problem"
+    },
+    {
+        "level": "C1",
+        "question": "What is the synonym of 'innovation'?",
+        "options": ["Creativity", "Tradition", "Routine", "Copying"],
+        "answer": "Creativity"
+    },
+    {
+        "level": "C1",
+        "question": "What is 'жаһандану' in English?",
+        "options": ["Globalization", "Localization", "Nationalism", "Industrialization"],
+        "answer": "Globalization"
+    },
+    {
+        "level": "C1",
+        "question": "Which word means 'қорытынды жасау'?",
+        "options": ["Conclude", "Start", "Avoid", "Forget"],
+        "answer": "Conclude"
+    },
+    {
+        "level": "C1",
+        "question": "Choose the correct sentence:",
+        "options": [
+            "Had I known about it, I would have acted differently",
+            "If I know about it, I would act differently",
+            "If I knew about it, I act differently",
+            "If I know, I would acted differently"
+        ],
+        "answer": "Had I known about it, I would have acted differently"
+    },
+    {
+        "level": "C1",
+        "question": "Which phrase means 'to make something less severe'?",
+        "options": ["Alleviate", "Exaggerate", "Complicate", "Neglect"],
+        "answer": "Alleviate"
+    },
+    {
+        "level": "C1",
+        "question": "Which one is a synonym of 'significant'?",
+        "options": ["Meaningful", "Tiny", "Irrelevant", "Unclear"],
+        "answer": "Meaningful"
+    },
+    {
+        "level": "C1",
+        "question": "What is 'энергия үнемдеу' in English?",
+        "options": ["Energy saving", "Energy loss", "Power increase", "Electric charge"],
+        "answer": "Energy saving"
+    },
+    {
+        "level": "C1",
+        "question": "Which phrase means 'to think deeply about something'?",
+        "options": ["Reflect on", "Look at", "Wait for", "Search for"],
+        "answer": "Reflect on"
+    },
+    {
+        "level": "C1",
+        "question": "What is the meaning of 'resilient'?",
+        "options": ["Able to recover quickly", "Easily broken", "Unstable", "Dependent"],
+        "answer": "Able to recover quickly"
+    },
+    {
+        "level": "C1",
+        "question": "Which phrase means 'to reduce pollution'?",
+        "options": ["Cut down emissions", "Increase emissions", "Avoid energy", "Use more cars"],
+        "answer": "Cut down emissions"
+    },
+    {
+        "level": "C1",
+        "question": "What is 'теңдік' in English?",
+        "options": ["Equality", "Freedom", "Peace", "Unity"],
+        "answer": "Equality"
+    },
+    {
+        "level": "C1",
+        "question": "What is 'жауапкершілік' in English?",
+        "options": ["Accountability", "Ability", "Activity", "Accuracy"],
+        "answer": "Accountability"
+    },
+    {
+        "level": "C1",
+        "question": "What is the opposite of 'abundant'?",
+        "options": ["Scarce", "Rich", "Full", "Plentiful"],
+        "answer": "Scarce"
+    },
+    {
+        "level": "C1",
+        "question": "Which one best describes 'critical thinking'?",
+        "options": ["Analyzing and evaluating ideas logically", "Memorizing facts only", "Avoiding discussions", "Agreeing with others"],
+        "answer": "Analyzing and evaluating ideas logically"
+    },
+    {
+        "level": "C1",
+        "question": "What is 'қоршаған ортаны қорғау' in English?",
+        "options": ["Environmental protection", "Ecological destruction", "Forest cutting", "Air pollution"],
+        "answer": "Environmental protection"
+    },
+    {
+        "level": "C1",
+        "question": "Which idiom means 'to be very happy'?",
+        "options": ["On cloud nine", "Under the weather", "In hot water", "At a loss"],
+        "answer": "On cloud nine"
+    }
+]
+

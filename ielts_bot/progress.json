@@ -1,0 +1,41 @@
+{
+  "6479398726": {
+    "words_done": [
+      "evaluate",
+      "complex",
+      "strategy",
+      "theory",
+      "consequence",
+      "variety",
+      "frequent",
+      "significant",
+      "abundant",
+      "beneficial",
+      "performance",
+      "challenge",
+      "career",
+      "decision",
+      "improve",
+      "success",
+      "tradition",
+      "advice",
+      "opinion",
+      "responsible",
+      "music",
+      "sun"
+    ],
+    "quiz_correct": 0,
+    "current_quiz": {
+      "question": "Translate 'мұғалім' into English.",
+      "options": [
+        "teacher",
+        "friend",
+        "student",
+        "family"
+      ],
+      "answer": "teacher",
+      "level": "A2"
+    },
+    "level": "A1"
+  }
+}
